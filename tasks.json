@@ -1,0 +1,15 @@
+{
+  "P02-SCALAR": {
+    "file": "app.php",
+    "description": "Отличить строку от массива, проверить UTF-8 и убрать крайние пробелы."
+  },
+  "P02-VALIDATE": {
+    "file": "app.php",
+    "description": "Проверить имя, email, тему, места и согласие; собрать ошибки по полям."
+  },
+  "P02-ESCAPE": {
+    "file": "app.php",
+    "description": "Реализовать htmlspecialchars для HTML-текста и атрибута.",
+    "stub": "return '[TODO P02-ESCAPE]';"
+  }
+}

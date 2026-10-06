@@ -1,0 +1,13 @@
+/vendor/
+/.env
+/.env.local
+/var/*.sqlite*
+/var/sessions/
+/var/log/
+/.phpunit.cache/
+/comparison/vendor/
+/comparison/var/
+/comparison/.env.local
+/*.cookies
+/cookies.txt
+/csrf.json
